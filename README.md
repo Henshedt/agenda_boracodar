@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma simulação de uma agenda de contatos, onde é possível adicionar máscara ao input e atualizar elementos HTML via DOM.
+Simulação de uma agenda de contatos, onde é possível adicionar máscara ao input e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Guilherme Fiuza 👋 [Participe da comunidade 🚀 Rocketseat!](https://discord.gg/rocketseat)
+Feito com ♥ por Guilherme Fiuza 👋 [Participe da comunidade Rocketseat! 🚀](https://discord.gg/rocketseat)
